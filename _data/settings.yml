@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Cansada de ser feliz
   site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
-  favicon_image: /images/favicon.png
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: 
@@ -143,9 +143,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
+    small_size: 18
+    medium_size: 18
+    large_size: 24
     weight: 400
     letter_spacing: -0.02
     line_height: 1.6
