@@ -9,8 +9,6 @@ categories:
 - SQLAlchemy
 ---
 
-## Para empezar
-
 Hay muchos recursos acerca de Flask en los internetes, 
 pero aquí me gustaría mencionar los tres que considero fundamentales.
 
