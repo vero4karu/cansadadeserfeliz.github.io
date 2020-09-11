@@ -55,6 +55,8 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
+  telegram_url: 'https://t.me/CansadaDeSerFelizBlog'
+  goodreads_url: ''
 
 color_settings:
   background_color: '#ffffff'
@@ -155,7 +157,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "UA-177761312-1"
   custom_styles: ""
   header_js: ""
   footer_js: ""
