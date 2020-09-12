@@ -1,7 +1,7 @@
 ---
 title: 'Flask con todas las arandelas'
 date: 2017-01-20 09:18:28 -0500
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/flask/tools.jpeg'
 comments: true
 categories: 
 - Flask

@@ -2,7 +2,7 @@
 layout: post
 title: "Día de la mujer"
 date: 2017-03-11 19:37:52 -0500
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/feminism/flowers.jpeg'
 comments: true
 featured: true
 categories: 

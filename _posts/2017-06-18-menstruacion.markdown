@@ -2,7 +2,7 @@
 layout: post
 title: "La menstruación explicada para hombres"
 date: 2017-06-18 13:56:09 -0500
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/feminism/menstruation.jpeg'
 comments: true
 published: true
 featured: true
@@ -19,7 +19,7 @@ Sin embargo, la menstruación sigue siendo uno de los temas más tabú en la soc
 Se espera que una mujer haga todo lo posible para que nadie se de cuenta que 
 ella tiene el periodo.
 
-![](/images/pysiology-menstrual-phases.jpg)
+![](/images/feminism/pysiology-menstrual-phases.jpg)
 
 > El periodo, regla o menstruación es el sangrado normal que experimentan las mujeres y algunas hembras mamíferas cuando el óvulo que fue expulsado del ovario para ser fecundado no se fertiliza. En esta última fase del ciclo menstrual, llamada fase postovulatoria, se produce cuando se desprende el endometrio, que se había ido engrosando como preparación para recibir, implantar y nutrir al óvulo fecundado. En total, el flujo de una menstruación es de entre 40 y 50 mL. Está compuesto de sangre, tejido endometrial y otros fluidos vaginales. Este fluido sale por la vagina y su duración promedio es de tres a siete días.
 
