@@ -16,17 +16,17 @@ menu_settings:
       url: '/projects/'
     - title: 'Acerca de'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Contacto'
       url: '/contact'
 
 grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/mnqoaqeo'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  send_button_text: 'Enviar mensaje'
 
 social_settings:
   facebook_url: ''
