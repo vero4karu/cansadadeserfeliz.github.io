@@ -1,35 +1,30 @@
 ---
 title: Acerca de
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: Blog personal.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/vera_ams.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/vera_ikea_with_book.jpg)
 
-## Features
+## Un poco acerca de mi
 
-Journal is packed with powerful features to showcase your work:
+Me llamo Vera, nací en Moscú, Rusia, pero vivo en Bogotá, Colombia, 
+y trabajo como desarrolladora web. Me gusta leer, 
+escribir en mi blog, tener clases con 
+[mi adorada profesora de español](https://bravespanish.com/), 
+cultivar plantas en mi apartamento, montar bicicleta, 
+comer chocolatinas con té, caminar, jugar badminton y viajar.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Entre mis proyectos personales tengo SITP bot para Telegram, 
+ue te puede ayudar a conocer más información acerca de los buses SITP, 
+y [desparchado.co](http://desparchado.co/) - página para eventos culturales 
+y académicos en Bogotá.
 
-## Get Index
+## Objetivo
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+> First of all, we should treat our blog as a record of our own learning and progression—a history of our thoughts, ideas, and views of the world over our careers. We should not worry too much about what other people will think about it. We should first write it for ourselves. *The Software Craftsman by Robert C. Martin*
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+## Por qué «cansada de ser feliz»
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xjD_MamBcE?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
