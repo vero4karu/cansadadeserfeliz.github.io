@@ -80,3 +80,4 @@ Enlaces:
 
 * [Las tres grandes novelas rusas del 2015](http://es.rbth.com/cultura/literatura/2015/12/22/las-tres-grandes-novelas-rusas-del-2015_553705)
 * [Zuleikha otkrivaet glaza (TV Mini-Series 2019) - IMDb](https://www.imdb.com/title/tt11012384/)
+* [Zuleijá abre los ojos - Edición Kindle](https://www.amazon.com/Zuleij%C3%A1-abre-Narrativa-Acantilado-Spanish-ebook/dp/B07ZHL1DPH)
