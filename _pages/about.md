@@ -1,7 +1,7 @@
 ---
 title: Acerca de
-subtitle: Blog personal.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: Blog personal
+description: Blog personal sobre libros, jardinería, historia, programación y otros temas que me interesan
 featured_image: /images/vera_ams.jpg
 ---
 

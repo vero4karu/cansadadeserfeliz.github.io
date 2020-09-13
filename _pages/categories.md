@@ -1,6 +1,6 @@
 ---
 title: Temas
-subtitle: 
+subtitle: Temas del blog
 description: 
 featured_image: /images/demo/demo-portrait.jpg
 ---
