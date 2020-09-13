@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Urban Jungle ☆ 2017"
+date: 2017-12-21 19:05:34 -0500
+comments: true
+featured_image: '/images/demo/demo-square.jpg'
+disqus_identifier: 5b5fb9bb-66c8-4286-bcc6-d2d59d4f9f70
+categories:
+- Jardinería
+tags:
+- Urban Jungle
+excerpt_separator: <!-- more -->
+---
+
+Mi jadrin en el año 2017.
+
+<!-- more -->
+
+Avocado:
+
+<div class="gallery" data-columns="3">
+    <img src="/images/urban-jungle/avocado.jpg">
+    <img src="/images/urban-jungle/avocado-seeds-00.jpg">
+    <img src="/images/urban-jungle/avocado-seeds-01.jpg">
+    <img src="/images/urban-jungle/avocado-seed.jpg">
+    <img src="/images/urban-jungle/avocado-transplant.jpg">
+</div>
+
+Uchuvas:
+
+![](/images/urban-jungle/uchuvas.jpg)
+
+Hierbabuena:
+
+![](/images/urban-jungle/huerbabuena.jpg)
+
+Cafe:
+
+<div class="gallery" data-columns="2">
+    <img src="/images/urban-jungle/cafe-00.jpg">
+    <img src="/images/urban-jungle/cafe-01.jpg">
+    <img src="/images/urban-jungle/cafe-02.jpg">
+    <img src="/images/urban-jungle/cafe-03.jpg">
+</div>
+
+Estantes para plantas:
+
+![](/images/urban-jungle/estantes.jpg)
+
+Planta carnívora:
+
+![](/images/urban-jungle/planta-carnivora.jpg)
+
+Cosecha de remolacha:
+
+![](/images/urban-jungle/remolacha.jpg)
+
+Herramientas:
+
+![](/images/urban-jungle/herramientas.jpg)
+
+Cosecha de rábano:
+
+![](/images/urban-jungle/rabano.jpg)
+
+Enlaces:
+
+* [Millennials are obsessed with houseplants because they can't afford kids](http://www.independent.co.uk/life-style/millennials-houseplants-children-kids-money-families-succulent-cactus-bonsai-how-to-dying-a7937021.html)
