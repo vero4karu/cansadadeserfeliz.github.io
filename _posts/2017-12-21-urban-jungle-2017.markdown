@@ -3,7 +3,7 @@ layout: post
 title: "Urban Jungle ☆ 2017"
 date: 2017-12-21 19:05:34 -0500
 comments: true
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/urban-jungle/herramientas.jpg'
 disqus_identifier: 5b5fb9bb-66c8-4286-bcc6-d2d59d4f9f70
 categories:
 - Jardinería
