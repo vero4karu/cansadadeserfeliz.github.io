@@ -1,7 +1,7 @@
 site: Cansada de ser feliz
 
-url: 
-baseurl: 
+url:
+baseurl:
 
 collections:
   pages:
@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blog/:year/:month/:day/:slug
   projects:
     output: true
     permalink: /project/:slug

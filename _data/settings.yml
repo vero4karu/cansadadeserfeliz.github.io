@@ -16,6 +16,8 @@ menu_settings:
       url: '/projects/'
     - title: 'Acerca de'
       url: '/about'
+    - title: 'Temas'
+      url: '/categories'
     - title: 'Contacto'
       url: '/contact'
 
