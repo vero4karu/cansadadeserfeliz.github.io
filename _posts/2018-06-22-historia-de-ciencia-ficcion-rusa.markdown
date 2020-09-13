@@ -18,8 +18,6 @@ tags:
 excerpt_separator: <!-- more -->
 ---
 
-![](/images/sci-fi/cover.png)
-
 En éste artículo trataremos de entender: ¿cómo apareció la ciencia ficción en Rusia? 
 ¿qué temas tocaba? ¿cómo era la relación entre literatura y el Gobierno? y 
 ¿quién fue el fantaseador principal de la Unión Soviética? 
@@ -28,6 +26,8 @@ incluso leer algunas palabras al revés para descifrar mensajes en los que
 unos autores escondían la crítica del Gobierno.
 
 <!-- more -->
+
+![](/images/sci-fi/cover.png)
 
 ## ¿Cuándo apareció la ciencia ficción en Rusia?
 
