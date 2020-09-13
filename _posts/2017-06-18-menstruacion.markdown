@@ -2,11 +2,14 @@
 layout: post
 title: "La menstruación explicada para hombres"
 date: 2017-06-18 13:56:09 -0500
+disqus_identifier: 55610664-c963-49d8-bfbd-60c3de3cafb1
 featured_image: '/images/feminism/menstruation.jpeg'
 comments: true
 published: true
 featured: true
 categories:
+- Igualdad de género
+tags:
 - Menstruación
 - Feminismo
 ---
@@ -289,4 +292,4 @@ Enlaces (en ruso):
 
 Entradas relacionadas:
 
-* [Día de la mujer](/blog/dia-de-la-mujer/)
+* [Día de la mujer]({% post_url 2017-03-11-dia-de-la-mujer %})

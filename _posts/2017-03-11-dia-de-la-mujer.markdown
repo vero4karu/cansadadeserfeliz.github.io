@@ -3,9 +3,12 @@ layout: post
 title: "Día de la mujer"
 date: 2017-03-11 19:37:52 -0500
 featured_image: '/images/feminism/flowers.jpeg'
+disqus_identifier: 2822fe17-0c60-41c9-9d08-e338b3ed1828
 comments: true
 featured: true
 categories: 
+- Igualdad de género
+tags:
 - Feminismo
 - Resistencia
 - Colombia

@@ -1,8 +1,11 @@
 ---
 title: 'Libros de la serie Sex Education'
 date: 2020-03-22 10:34:39 -0500
+disqus_identifier: d5249fae-1ed7-49d5-bd2f-78f5a8dc5a05
 featured_image: '/images/posts/sex-education-books-stand.jpg'
 excerpt: Mientras están grabando la tercera temporada de Sex Education, estoy anotando los libros que aparecieron en las primeras dos...
+categories: 
+- Libros
 ---
 
 ![](/images/posts/sex-education-books-stand.jpg)

@@ -1,14 +1,16 @@
 ---
 title: 'Ciencia ficción rusa y soviética: Aleksandr Beliáyev'
 date: 2017-12-02 18:43:13 -0500
+disqus_identifier: 451d7e6e-0c37-4141-8d81-6934f64dc132
 featured_image: '/images/posts/ciencia-ficion-belyaev.png'
 excerpt: 
 comments: true
 categories:
+- Libros
+tags:
 - Ciencia ficción
 - Rusia
 - Unión Soviética
-- Libros
 - Cine
 ---
 

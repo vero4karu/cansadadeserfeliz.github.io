@@ -1,9 +1,12 @@
 ---
 title: 'Flask con todas las arandelas'
 date: 2017-01-20 09:18:28 -0500
+disqus_identifier: dca11285-f08c-423b-8b84-64d018a74f12
 featured_image: '/images/flask/tools.jpeg'
 comments: true
 categories: 
+- Python
+tags:
 - Flask
 - Python
 - SQLAlchemy
@@ -28,7 +31,9 @@ Y ahora, como dijo el astronauta ruso Yuri Gagarin en el momento del
 despegue de su nave Vostok 1: "¡Poyejali!"" 
 (en ruso: Поехали!; se traduce como «¡Vámonos!»).
 
+<p>
 <iframe src="//slides.com/cansadadeserfeliz/flask-con-todas-las-arandelas/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
 
 ## Aplicación básica
 

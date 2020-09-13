@@ -1,6 +1,7 @@
 ---
 title: 'Londoners'
 date: 2020-03-01 20:07:38 -0500
+disqus_identifier: d704616c-2817-4ba8-8a2e-cfe455c69c39
 featured_image: '/images/posts/londoners.jpg'
 excerpt: 
 comments: true
