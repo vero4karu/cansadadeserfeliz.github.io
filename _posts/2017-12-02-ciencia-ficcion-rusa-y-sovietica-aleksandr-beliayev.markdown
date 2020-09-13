@@ -117,8 +117,8 @@ hace un túnel por medio del cual el muchacho Ichthyander puede salir al mar y p
 el tiempo necesario bajo el agua.
 
 <div class="gallery" data-columns="2">
-    <img src="/images/posts/hombre-anfibio.jpg">
-    <img src="/images/posts/chelovek-amfibiya.jpg">
+    <img src="/images/sci-fi/hombre-anfibio.jpg">
+    <img src="/images/sci-fi/chelovek-amfibiya.jpg">
 </div>
 
 Durante sus salidas Ichthyander suele cortar las redes de pescadores y liberar la pesca. 
