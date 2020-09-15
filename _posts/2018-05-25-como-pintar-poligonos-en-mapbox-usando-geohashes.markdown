@@ -7,9 +7,8 @@ featured_image: '/images/tech/mapbox_polygons.png'
 disqus_identifier: 096db109-bde5-43e8-8625-f6050d23186e
 excerpt_separator: <!-- more -->
 categories:
-- Desarrollo
-tags:
 - Mapas
+tags:
 - Mapbox
 ---
 
