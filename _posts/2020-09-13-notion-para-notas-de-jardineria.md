@@ -14,11 +14,11 @@ tags:
 
 Antes de empezar a usar [Notion.io](https://www.notion.so/), mis notas de jardinería estaban 
 en un completo caos: apuntes en mi cuaderno, archivos de *drive*, diferentes páginas y 
-videos de jardinedía agregados a favoritos del navegador, YouTube, Pocket, etc.
+videos de jardinería agregados a favoritos del navegador, YouTube, Pocket, etc.
 
 <!-- more -->
 
-Al conocer *Notion*, me pareció la herramienta muy conviniente para guardar 
+Al conocer *Notion*, me pareció la herramienta muy conveniente para guardar 
 información de diferentes formatos y naturaleza.
 
 Primero lo que hice fue crear una página y crear 
