@@ -44,13 +44,13 @@ nueva.
 </div>
 
 En la página sobre la planta agrego otras secciones dedicadas a la descripción 
-general, imagenes y videos sobre cómo cuidar la planta, podarla y qué abono necesita
+general, imágenes y videos sobre cómo cuidar la planta, podarla y qué abono necesita
 (mira [Embeds](https://www.notion.so/Embeds-6b7133323590447b9d8e963c136ebce5)
 en la página de ayuda de Notion).
 
 ![](/images/urban-jungle/notion_02.jpg)
 
-En la página principal de gardinería también uso *checklist* para 
+En la página principal de jardinería también uso *checklist* para 
 llevar la lista de compras para mi jardín casero.
 
 Imagen del fondo: [@prudenceearl](https://unsplash.com/photos/NwBx723XaHw)
