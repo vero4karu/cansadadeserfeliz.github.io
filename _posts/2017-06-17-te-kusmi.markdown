@@ -6,10 +6,11 @@ comments: true
 published: true
 featured: true
 featured_image: '/images/demo/demo-square.jpg'
-disqus_identifier:
+disqus_identifier: a7d06a7a-dd9e-4e16-a953-a798d4c17a7a
 excerpt_separator: <!-- more -->
 categories: 
 - Rusia
+- Historia
 tags:
 - Té
 ---
