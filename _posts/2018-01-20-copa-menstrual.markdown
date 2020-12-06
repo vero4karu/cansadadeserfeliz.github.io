@@ -4,6 +4,10 @@ title: "Cómo compré mi primera copa menstrual en Aliexpress desde Colombia"
 date: 2018-01-20 10:02:11 -0500
 featured_image: '/images/periods/cover.png'
 comments: true
+categories:
+- Igualdad de género
+tags:
+- Menstruación
 excerpt_separator: <!-- more -->
 ---
 
