@@ -5,6 +5,8 @@ published: true
 comments: true
 featured_image: '/images/russia/lift.jpg'
 excerpt_separator: <!-- more -->
+categories:
+- Sin tema
 tags:
 - Niñez
 - Aventuras
@@ -32,6 +34,6 @@ Me asusté mucho al ver todo el mecanismo de la forma tan transparente, y no pue
 
 Después empecé a ver unas pesadillas de otro tipo: estaba llamando al ascensor y cundo llegaba y se abrían las puertas, me daba cuenta que por dentro no habían ni el piso, ni las paredes. Llegaba un marco de metal, sólo con una tabla de madera al fondo para poder quedarse.
 
-Entonces mi relación con los ascensores empezó con pesadillas, pero las películas estadounidenses cambiaron todo. EN ellas mostraban un ascensor como la parte de una aventura: los protagonistas se metían al pozo, o hacían un hueco en el techo de la cabina para escaparse con los diamantes robados. El hueco del ascensor se convirtió en una ruta de escape para los aventureros que roban los bancos o museos.
+Entonces mi relación con los ascensores empezó con pesadillas, pero las películas estadounidenses cambiaron todo. En ellas mostraban un ascensor como la parte de una aventura: los protagonistas se metían al pozo, o hacían un hueco en el techo de la cabina para escaparse con los diamantes robados. El hueco del ascensor se convirtió en una ruta de escape para los aventureros que roban los bancos o museos.
 
 Ahora no me estresa montar en los ascensores. Me gusta oprimir el botón y sentir el poder que ejersco sobre la máquina. O montar en un ascensor con las paredes de vidrio.
