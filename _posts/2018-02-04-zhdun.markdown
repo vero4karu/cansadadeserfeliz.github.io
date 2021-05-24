@@ -5,6 +5,8 @@ featured_image: '/images/russia/zhgun_bog.png'
 published: true
 comments: true
 excerpt_separator: <!-- more -->
+categories:
+- Rusia
 tags:
 - Rusia
 - Memes
