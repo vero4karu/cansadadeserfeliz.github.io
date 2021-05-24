@@ -39,7 +39,7 @@ llevando el contrapeso. Ese hueco era muy oscuro con un bombillo amarillo
 marcando cada piso. Y debajo, cubierto del polvo, estaba el cacho de mi cabra...
 En ese momento me desperté con sudor frío.
 
-{% img center /images/lift.jpg 'Ascensor' %}
+![](/images/russia/lift.jpg)
 
 Tuve otra experiencia con un ascensor cuando fuimos a una casa vieja en el
 centro de Moscú. En esa casa había un ascensor muy antiguo
