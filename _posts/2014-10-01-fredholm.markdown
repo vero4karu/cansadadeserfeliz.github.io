@@ -11,4 +11,4 @@ categories:
 — ¿Y a qué se dedica? <br />
 — Ecuaciones de Fredholm de la primera especie. <br />
 — ¿Y cuál es su hobby? <br />
-— Ecuaciones de Fredholm de  lasegunda especie <br />
+— Ecuaciones de Fredholm de la segunda especie <br />
