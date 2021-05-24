@@ -3,6 +3,7 @@ title: "Ascensores"
 date: 2014-10-04 22:19:29 -0500
 published: true
 comments: true
+featured_image: '/images/russia/lift.jpg'
 excerpt_separator: <!-- more -->
 tags:
 - Niñez
