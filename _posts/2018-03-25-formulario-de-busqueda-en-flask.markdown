@@ -136,7 +136,7 @@ Luego agregamos el formulario a la plantilla, asociada a la vista:
 
 `list.html`:
 
-```html
+{% highlight html %}{% raw %}
 {% extends "layouts/base.html" %}
 {% import "bootstrap/wtf.html" as wtf %}
 
@@ -163,7 +163,7 @@ Luego agregamos el formulario a la plantilla, asociada a la vista:
   {% endfor %}
   </tbody>
 </table>
-{% endblock %}
-```html
+{% endblock %} 
+{% endraw %}{% endhighlight %}
 
 En este ejemplo usamos [Flask-Bootstrap](https://pythonhosted.org/Flask-Bootstrap/forms.html) para renderizar los formularios con las clases de [Bootstrap](http://getbootstrap.com/).
