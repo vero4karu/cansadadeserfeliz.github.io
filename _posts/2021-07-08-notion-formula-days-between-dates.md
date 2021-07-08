@@ -1,6 +1,7 @@
 ---
 title: "Notion: calcular cuántos días hay entre dos fechas"
 published: true
+featured_image: '/images/demo/demo-landscape-2.jpg'
 disqus_identifier: 8fa19c0b-ee2b-4e29-aa41-acc25b5cc7bb
 comments: true
 excerpt_separator: <!-- more -->
@@ -31,3 +32,7 @@ if(
 ```
 
 donde `Fecha Aplicación` es el nombre de mi campo de tipo `Date`.
+
+EL resultado se ve así:
+
+![](/images/notion/days_between_dates.png)
