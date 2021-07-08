@@ -11,7 +11,7 @@ categories:
 - Libros
 tags:
 - Rusia
-- Niños
+- Infancia
 ---
 
 ## Gianni Rodari, Cipollino

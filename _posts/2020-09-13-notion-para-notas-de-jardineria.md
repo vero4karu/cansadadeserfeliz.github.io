@@ -8,6 +8,7 @@ comments: true
 excerpt_separator: <!-- more -->
 categories:
 - Jardinería
+- Notion
 tags:
 - Urban Jungle
 ---
